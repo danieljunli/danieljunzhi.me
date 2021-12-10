@@ -114,7 +114,7 @@ li a:hover, li a:active {
 .contacts{
   position: relative;
   left: 150px;
-  top: 10px;
+  top: 0px;
 
   width: 1000px;
   height: 200px;
@@ -131,7 +131,7 @@ li a:hover, li a:active {
   font-size: 120%;
 
   width: 1000px;
-  height: 400px;
+  height: 350px;
 
   opacity:0.9;
 

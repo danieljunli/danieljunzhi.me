@@ -1,2 +1,2 @@
-# my-website
-My website for school
+# My Website
+Link: https://danieljunzhi.me

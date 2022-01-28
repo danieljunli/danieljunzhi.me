@@ -108,7 +108,7 @@ li a:hover, li a:active {
 }
 
 
-.note2, .note3{
+.note2, .note3, .note4, .note5, .note6{
   position: relative;
   left: 150px;
   top: 0px;
@@ -125,6 +125,6 @@ li a:hover, li a:active {
 .note2head,  .note3head{
 }
 
-.note2more, .note3more{
+.note2more, .note3more, .note4, .note5, .note6{
   right:160px;
 }
